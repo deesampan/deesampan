@@ -1,5 +1,6 @@
 ### Hi there 👋
-### Hello
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 <!--
 **deesampan/deesampan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
