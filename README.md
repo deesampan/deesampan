@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=1500&color=1369F7&center=true&random=false&width=435&lines=Hello+there%F0%9F%91%8B;%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)<!--
-**deesampan/deesampan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=1500&color=1369F7&center=true&random=false&width=435&lines=Hello+there%F0%9F%91%8B;%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+#my portfolio📂
+
+
+
+<!--**deesampan/deesampan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
