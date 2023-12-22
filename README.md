@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=1500&color=0262F7&center=true&random=false&width=440&lines=Hi+There%F0%9F%91%8B;%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%91%AE%E2%80%8D%E2%99%82%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&duration=1000&pause=1500&color=FFAAC9&center=true&vCenter=true&random=false&width=500&lines=I'm+Lazy+person%F0%9F%98%AD%F0%9F%98%AD%F0%9F%98%AD;I'm+Forgetful%F0%9F%A4%94%F0%9F%98%94%F0%9F%98%94;%F0%9F%98%8EI+like+to+meditate%2C+but+only+for+2+seconds%F0%9F%98%AD%F0%9F%98%AD;%F0%9F%A4%90I'm+not+Toxic+gamer%2C+but+GGEZ+noob%F0%9F%98%9B%F0%9F%98%9B)](https://git.io/typing-svg)
 
 <h1 align="center">Sup👋 I'm, Biw</h1>
 <h3 align="center">>:D</h3>
