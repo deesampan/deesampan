@@ -3,7 +3,7 @@
 <h1 align="center">Sup👋 I'm, Biw</h1>
 <h3 align="center">>:D</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">About me📝</h3>
 <p align="left">
 </p>
 
